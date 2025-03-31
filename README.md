@@ -1,2 +1,10 @@
 # sit323-2025-prac4c
-#used technology
+
+#used technologies
+
+#Github
+
+#Node js
+
+#visual studio code
+
