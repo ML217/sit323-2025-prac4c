@@ -123,16 +123,10 @@ app.listen(port, () => {
 });
 
 
+------------------------------------------------------------------------------------------------------------
 
 ## Test For API Endpoints
-
 ### Basic Operations
-
-
-
-
-
-
 
 {"result": 3}
 http://localhost:3000/divide?num1=1&num2=0
