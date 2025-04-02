@@ -1,5 +1,4 @@
-##SIT323 Task 4.2 Enhanced Calculator Microservice
-##sit323-2025-prac4c
+# SIT323 Task 4.2 Enhanced Calculator Microservice sit323-2025-prac4c
 
 #used technologies
 
