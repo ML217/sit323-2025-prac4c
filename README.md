@@ -171,9 +171,9 @@ http://localhost:3000/divide?num1=1&num2=0
 
 - **Parameters Missing**
   - `http://localhost:3000/add?num1=9`
-  - Response: `{ "error": "num1 & num2 aren't found" }`
+  - Response: `{ "error": 'num1 & num2 aren't found' }`
 
 - **Divide by 0**
   - `http://localhost:3000/divide?num1=1&num2=0`
-  - Response: `{ "error": "0 cannot be divided" }`
+  - Response: `{ "error": '0 cannot be divided' }`
 
